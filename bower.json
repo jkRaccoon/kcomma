@@ -1,0 +1,22 @@
+{
+  "name": "kcomma",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jkRaccoon/kcomma",
+  "authors": [
+    "jkRaccoon <comsamo84@gmail.com>"
+  ],
+  "description": "add comma for nummber",
+  "main": "js/kcomma.js",
+  "moduleType": [],
+  "keywords": [
+    "comma"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
