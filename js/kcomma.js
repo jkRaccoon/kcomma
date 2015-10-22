@@ -1,5 +1,5 @@
 /**
- * 천단위 콤마
+ * 천단위 콤마함수
  */
 function kcomma(num) {    
     var len, point, str;  
